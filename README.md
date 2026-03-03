@@ -1,0 +1,2 @@
+# AMBIR
+An open source repository of paper "Attention and Mamba Based Iterative Registration Network for Low-overlap and Large-scale Point Cloud"
